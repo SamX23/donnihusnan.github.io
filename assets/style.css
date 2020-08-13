@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: 300;
 }
 
@@ -169,11 +169,11 @@ a:hover {
 
 @media screen and (max-width: 992px) {
     .perkenalan {
-        margin-left: 40px;
+        margin-left: 36px;
     }
 
     .kontak {
         margin-top: 80px;
-        margin-right: 40px;
+        margin-right: 36px;
     }
  }
