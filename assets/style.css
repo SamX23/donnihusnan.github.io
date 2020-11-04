@@ -5,6 +5,7 @@
   -moz-user-select: none;
   user-select: none;
   list-style: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
