@@ -7,4 +7,7 @@ function puter() {
 
   let darkMode = document.querySelector(".wrapper");
   darkMode.classList.toggle("darkmode");
+
+  let gravity = document.querySelector("div.box1");
+  gravity.classList.toggle("gravity");
 }
